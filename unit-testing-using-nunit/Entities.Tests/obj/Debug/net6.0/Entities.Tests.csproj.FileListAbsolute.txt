@@ -1,0 +1,5 @@
+C:\Users\Owner\OneDrive\Desktop\DatingApp\unit-testing-using-nunit\Entities.Tests\obj\Debug\net6.0\Entities.Tests.csproj.AssemblyReference.cache
+C:\Users\Owner\OneDrive\Desktop\DatingApp\unit-testing-using-nunit\Entities.Tests\obj\Debug\net6.0\Entities.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\OneDrive\Desktop\DatingApp\unit-testing-using-nunit\Entities.Tests\obj\Debug\net6.0\Entities.Tests.AssemblyInfoInputs.cache
+C:\Users\Owner\OneDrive\Desktop\DatingApp\unit-testing-using-nunit\Entities.Tests\obj\Debug\net6.0\Entities.Tests.AssemblyInfo.cs
+C:\Users\Owner\OneDrive\Desktop\DatingApp\unit-testing-using-nunit\Entities.Tests\obj\Debug\net6.0\Entities.Tests.csproj.CoreCompileInputs.cache
