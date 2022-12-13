@@ -973,6 +973,19 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
+      },
+      "API/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/API.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/API.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       }
     }
   },
@@ -3956,10 +3969,16 @@
         "system.xml.xdocument.4.0.11.nupkg.sha512",
         "system.xml.xdocument.nuspec"
       ]
+    },
+    "API/1.0.0": {
+      "type": "project",
+      "path": "../../API/API.csproj",
+      "msbuildProject": "../../API/API.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "API >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 17.1.0",
       "NUnit >= 3.13.3",
       "NUnit.Analyzers >= 3.3.0",
@@ -3991,7 +4010,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Owner\\OneDrive\\Desktop\\DatingApp\\API\\API.csproj": {
+              "projectPath": "C:\\Users\\Owner\\OneDrive\\Desktop\\DatingApp\\API\\API.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
