@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ex8z9N4cdVkOFKgxILEb1Wg9qqwA2EPhmvHmn7weZO2W66VM49Q8D/lLppRWRmxejB5lrUu4voWgyCVbUQovWQ==",
+  "dgSpecHash": "isIg772LOxizHozqs9jvRW1TNVBUNnz1ghvPVV4+kkcbh+pm8SwsrwFXvqpNat9CT/fyi4KJsGCdnSJ4AcWIfQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Owner\\OneDrive\\Desktop\\DatingApp\\unit-testing-using-nunit\\Entities.Tests\\Entities.Tests.csproj",
   "expectedPackageFiles": [
@@ -12,6 +12,7 @@
     "C:\\Users\\Owner\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.0\\microsoft.entityframeworkcore.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\Owner\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.0\\microsoft.entityframeworkcore.analyzers.6.0.0.nupkg.sha512",
     "C:\\Users\\Owner\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\6.0.0\\microsoft.entityframeworkcore.relational.6.0.0.nupkg.sha512",
+    "C:\\Users\\Owner\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite\\6.0.0\\microsoft.entityframeworkcore.sqlite.6.0.0.nupkg.sha512",
     "C:\\Users\\Owner\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite.core\\6.0.0\\microsoft.entityframeworkcore.sqlite.core.6.0.0.nupkg.sha512",
     "C:\\Users\\Owner\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\6.0.0\\microsoft.extensions.caching.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\Owner\\.nuget\\packages\\microsoft.extensions.caching.memory\\6.0.0\\microsoft.extensions.caching.memory.6.0.0.nupkg.sha512",
@@ -34,7 +35,10 @@
     "C:\\Users\\Owner\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
     "C:\\Users\\Owner\\.nuget\\packages\\nunit.analyzers\\3.3.0\\nunit.analyzers.3.3.0.nupkg.sha512",
     "C:\\Users\\Owner\\.nuget\\packages\\nunit3testadapter\\4.2.1\\nunit3testadapter.4.2.1.nupkg.sha512",
+    "C:\\Users\\Owner\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.0.6\\sqlitepclraw.bundle_e_sqlite3.2.0.6.nupkg.sha512",
     "C:\\Users\\Owner\\.nuget\\packages\\sqlitepclraw.core\\2.0.6\\sqlitepclraw.core.2.0.6.nupkg.sha512",
+    "C:\\Users\\Owner\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.6\\sqlitepclraw.lib.e_sqlite3.2.0.6.nupkg.sha512",
+    "C:\\Users\\Owner\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.0.6\\sqlitepclraw.provider.e_sqlite3.2.0.6.nupkg.sha512",
     "C:\\Users\\Owner\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
     "C:\\Users\\Owner\\.nuget\\packages\\system.collections\\4.0.11\\system.collections.4.0.11.nupkg.sha512",
     "C:\\Users\\Owner\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
