@@ -25,4 +25,4 @@ jobs:
     - name: Build
       run: dotnet build DatingApp.sln --no-restore
     - name: Test
-      run: dotnet test unit-testing-using-nunit/Entities.Tests --no-build --verbosity normal
+      run: dotnet test unit-testing-using-nunit/Entities.Tests/Entities.Tests.dll --no-build --verbosity normal
