@@ -105,3 +105,10 @@ C:\Users\Owner\OneDrive\Desktop\DatingApp\unit-testing-using-nunit\Entities.Test
 C:\Users\Owner\OneDrive\Desktop\DatingApp\unit-testing-using-nunit\Entities.Tests\obj\Debug\net6.0\Entities.Tests.pdb
 C:\Users\Owner\OneDrive\Desktop\DatingApp\unit-testing-using-nunit\Entities.Tests\obj\Debug\net6.0\Entities.Tests.genruntimeconfig.cache
 C:\Users\Owner\OneDrive\Desktop\DatingApp\unit-testing-using-nunit\Entities.Tests\obj\Debug\net6.0\ref\Entities.Tests.dll
+C:\Users\Owner\OneDrive\Desktop\DatingApp\unit-testing-using-nunit\Entities.Tests\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\Owner\OneDrive\Desktop\DatingApp\unit-testing-using-nunit\Entities.Tests\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Owner\OneDrive\Desktop\DatingApp\unit-testing-using-nunit\Entities.Tests\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Owner\OneDrive\Desktop\DatingApp\unit-testing-using-nunit\Entities.Tests\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Owner\OneDrive\Desktop\DatingApp\unit-testing-using-nunit\Entities.Tests\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Owner\OneDrive\Desktop\DatingApp\unit-testing-using-nunit\Entities.Tests\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Owner\OneDrive\Desktop\DatingApp\unit-testing-using-nunit\Entities.Tests\bin\Debug\net6.0\SQLitePCLRaw.core.dll
