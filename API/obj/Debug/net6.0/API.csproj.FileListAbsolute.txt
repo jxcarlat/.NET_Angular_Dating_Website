@@ -65,3 +65,6 @@ C:\Users\Owner\OneDrive\Desktop\DatingApp\API\obj\Debug\net6.0\scopedcss\bundle\
 C:\Users\Owner\OneDrive\Desktop\DatingApp\API\obj\Debug\net6.0\API.csproj.CopyComplete
 C:\Users\Owner\OneDrive\Desktop\DatingApp\API\obj\Debug\net6.0\API.genruntimeconfig.cache
 C:\Users\Owner\OneDrive\Desktop\DatingApp\API\obj\Debug\net6.0\ref\API.dll
+C:\Users\Owner\OneDrive\Desktop\DatingApp\API\bin\Debug\net6.0\API.staticwebassets.runtime.json
+C:\Users\Owner\OneDrive\Desktop\DatingApp\API\bin\Debug\net6.0\Npgsql.dll
+C:\Users\Owner\OneDrive\Desktop\DatingApp\API\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
