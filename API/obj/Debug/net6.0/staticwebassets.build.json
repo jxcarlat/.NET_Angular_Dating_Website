@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "iFYAJyO2FFmJUjDQQauxTwqSvB1p0BHGGXZKAvwbZuc=",
+  "Hash": "LuSmQ2z0kU6r8amU/pT7RQc3uOxgPyLX1DVA9eMh/Uw=",
   "Source": "API",
   "BasePath": "_content/API",
   "Mode": "Default",
@@ -170,12 +170,12 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "C:\\Users\\Owner\\OneDrive\\Desktop\\DatingApp\\API\\wwwroot\\main.0ee8e2b997df7f33.js",
+      "Identity": "C:\\Users\\Owner\\OneDrive\\Desktop\\DatingApp\\API\\wwwroot\\main.5f1e9a5468994340.js",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Owner\\OneDrive\\Desktop\\DatingApp\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "main.0ee8e2b997df7f33.js",
+      "RelativePath": "main.5f1e9a5468994340.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -184,7 +184,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\main.0ee8e2b997df7f33.js"
+      "OriginalItemSpec": "wwwroot\\main.5f1e9a5468994340.js"
     },
     {
       "Identity": "C:\\Users\\Owner\\OneDrive\\Desktop\\DatingApp\\API\\wwwroot\\polyfills.d7bd9d69524573e2.js",
