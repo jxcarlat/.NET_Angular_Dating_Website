@@ -1,0 +1,21 @@
+# fly.toml app configuration file generated for weathered-thunder-5487 on 2023-05-05T14:20:42-05:00
+#
+# See https://fly.io/docs/reference/configuration/ for information about how to use this file.
+#
+
+app = "weathered-thunder-5487"
+primary_region = "dfw"
+
+[build]
+  image = "joshbusiness/datingapp:latest"
+
+[env]
+  ASPNETCORE_URLS="http://+:8080"
+  CloudinarySettings__CloudName="datrr2kta"
+  CloudinarySettings__ApiKey="271768465551994"
+
+[http_service]
+  internal_port = 8080
+  force_https = true
+  auto_stop_machines = true
+  auto_start_machines = true
